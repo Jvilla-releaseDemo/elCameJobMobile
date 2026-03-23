@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <path
+            android:fillColor="#00000000"
+            android:pathData="M0,0h54v54h-54z" />
+        <!-- Rocket emoji-like shape -->
+        <path
+            android:fillColor="#FF5722"
+            android:pathData="M40.5,13.5c-4.5,-4.5 -13.5,-9 -13.5,-9s-9,4.5 -13.5,9c-4.5,4.5 -4.5,13.5 -4.5,13.5s4.5,0 9,4.5s4.5,9 4.5,9s9,0 13.5,-4.5s9,-13.5 9,-13.5s0,-4.5 -4.5,-9z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M27,18c-2.48,0 -4.5,2.02 -4.5,4.5s2.02,4.5 4.5,4.5s4.5,-2.02 4.5,-4.5s-2.02,-4.5 -4.5,-4.5z" />
+    </group>
+</vector>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ElCameJob</string>
+    <string name="title_activity_main">ElCameJob</string>
+    <string name="package_name">com.elcamejob.app</string>
+    <string name="custom_url_scheme">com.elcamejob.app</string>
+</resources>
