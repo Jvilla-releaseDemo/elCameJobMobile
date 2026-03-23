@@ -1,6 +1,6 @@
 # ElCameJob App - Android 🚀
 
-# Nota > Esta version se hizo en forma de appweb por convenieniencias de los frameworks usados paa hacer la app como vite y postgrSQL.
+# Nota > Esta version se hizo en forma de appweb por convenieniencias de los frameworks usados para hacer la app como vite y postgrSQL.
 ​
  Este es el proyecto de Android generado con **Capacitor** para la aplicación **ElCameJob**. Ha sido optimizado para ofrecer el mejor rendimiento y un tamaño de instalación reducido.
 ​
